@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kojonhyiraa
 - 👀 I’m interested in coding...
-- 🌱 I’m currently learning .css and html..
+- 🌱 I’m currently a student
 - 💞️ I’m looking to collaborate on ..anything because i am a beginner.
 - 📫 How to reach me .kojonhyira17@gmail.com or kttech901@gmail.com..
 
