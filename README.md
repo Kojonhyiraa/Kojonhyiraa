@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kojo Nhyira Mante-Dankwa</h1>
+<h1 align="center">Hi 👋, I'm Kojo Nhyira </h1>
 <h3 align="center">A tech enthusiast from Ghana🇬🇭</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kojonhyiraa" alt="kojonhyiraa" /></a> </p>
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Rel](Https://relgh.com)
 
-- 🌱 I’m currently learning *digital forensics,penetration testing*
+- 🌱 I’m currently learning *digital forensics,backend development,penetration testing*
 
 - 👯 I’m looking to collaborate on *any cybersecurity project*
 
