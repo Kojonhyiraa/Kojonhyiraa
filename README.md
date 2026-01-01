@@ -2,7 +2,7 @@
 
 🚀 **Backend Engineer | FinTech | Security Enthusiast**
 
-I’m a backend-focused software engineer with a strong foundation in **Java** and experience building **scalable, secure systems** in the **fintech space**. I also work full-stack when needed and have a growing interest in **penetration testing and application security**.
+I’m a fullstack software engineer with a strong foundation in **Java,JavaScript** and experience building **scalable, secure systems** in the **fintech space**. I have a growing interest in **penetration testing and application security**.
 
 ---
 
